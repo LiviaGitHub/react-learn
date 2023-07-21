@@ -4,6 +4,7 @@ import eventsImage from './assets/images/events.png';
 
 import Header from './components/Header';
 import Concept from './components/Concept';
+import Footer from './components/Footer';
 
 const concepts = [
   {
@@ -47,6 +48,7 @@ function App() {
         description={concepts[2].description}
         />
       </ul>
+      <Footer />
     </div>
   );
 }
