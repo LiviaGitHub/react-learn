@@ -1,0 +1,12 @@
+/node_modules/
+/config/secrets.json
+/builds/
+/app/features/i18n/locales
+npm-debug.log
+.babel-cache
+jsconfig.json
+stats.json
+.idea
+/config/app-tids-decoded.json
+/config/sentry-token-decoded.json
+.tmp/
