@@ -5,6 +5,7 @@ import eventsImage from './assets/images/events.png';
 import Header from './components/Header';
 import Concept from './components/Concept';
 import Footer from './components/Footer';
+import Form from './components/Form';
 
 const concepts = [
   {
@@ -49,6 +50,7 @@ function App() {
         />
       </ul>
       <Footer />
+      <Form />
     </div>
   );
 }
